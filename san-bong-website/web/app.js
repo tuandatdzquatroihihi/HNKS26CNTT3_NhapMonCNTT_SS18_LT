@@ -15,4 +15,4 @@ function hienThiBangGiaSan() {
   }
 }
 
-hienThiBangGia();
+hienThiBangGiaSan();
